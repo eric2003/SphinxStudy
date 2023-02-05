@@ -1,0 +1,5 @@
+Inline Markup
+================
+
+Getting started
+---------------
