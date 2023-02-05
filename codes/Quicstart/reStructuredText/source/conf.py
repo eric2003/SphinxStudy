@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'reStructuredText'
-copyright = '2023, eric, 万福楼'
+copyright = '2023, eric'
 author = 'eric'
 release = '1.0'
 
