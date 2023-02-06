@@ -10,6 +10,17 @@ Directives
    /directives/versionchanged
    /directives/deprecated
    /directives/seealso
+   /directives/hlist
+   /directives/highlight
+   /directives/linenothreshold
+   /directives/glossary
+   /directives/sectionauthor
+   /directives/codeauthor
+   
+   
+   
+   
+   
    
    
    

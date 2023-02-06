@@ -11,6 +11,8 @@ copyright = '2023, eric'
 author = 'eric'
 release = '1.0'
 
+show_authors = True
+
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
